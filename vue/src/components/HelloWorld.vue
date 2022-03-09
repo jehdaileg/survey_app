@@ -1,6 +1,6 @@
 <template>
     <div>
-        <h5>Hello guys In Vue js App in a LARAVEL Main Dir</h5>
+        <p class="text-blue-500">Hello guys In Vue js App in a LARAVEL Main Dir</p>
         <h5>{{ user }}</h5>
     </div>
 </template>
